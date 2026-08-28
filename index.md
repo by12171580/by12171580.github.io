@@ -4,9 +4,9 @@ Hello! My name is Byron Vargas.
 
 ## Projects
 
-- Project 1: Description
+- Project 1: N/A
 
-- Project 2: Description
+- Project 2: N/A
 
 ## About Me
 
@@ -14,4 +14,4 @@ Click here to learn more → [About Me](about.md)
 
 ## Notebook
 
-Click here to go to my notebook → [Notebook](Notebook.md)
+Click here to go to my notebook → [Notebook](notebook.md)
