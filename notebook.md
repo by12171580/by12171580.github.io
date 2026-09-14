@@ -14,6 +14,23 @@
 - [Vocabulary](#vocabulary)
  
 ## Blocks
+- Hat blocks have a rounded top and always sit at the very top of a script to start a program when a specific event happens, like clicking a green flag. Directly underneath, you can snap together puzzle-like Stack or Command blocks, which feature notches on top and bumps on the bottom to perform main actions like moving a character. 
+
+- Stack or Command blocks feature notches on top and bumps on the bottom to perform main actions like moving a character, snapping together like puzzle pieces directly underneath a hat block.
+
+- C-blocks use an open C-shape that creates a container space meant to wrap around and control other stack blocks.
+
+- Reporter blocks are oval-shaped and hold text or numbers to drop into round input fields whenever other blocks require data.
+
+- Boolean blocks have a hexagonal shape to fit into diamond-shaped slots, reporting whether a specific condition is strictly true or false.
+
+- Repeat blocks are a specific type of C-block that loops the code inside them a set number of times based on the number you type into their input slot.
+
+- Wait Until blocks pause the program entirely, requiring a hexagonal Boolean condition to become true before letting the script move forward.
+
+- If Then blocks use their diamond-shaped notch to check a condition, running the inner code of their C-shape only if that condition evaluates to true.
+
+- Forever blocks are C-blocks with a closed bottom that run their inner code continuously until the program is completely stopped.
 
 ## Concepts
 
