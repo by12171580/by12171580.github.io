@@ -7,6 +7,17 @@
 
   - [Text Formatting](#text-formatting)
  
+  -  [Blocks](#blocks)
+    
+- [Concepts](#concepts)
+  
+- [Vocabulary](#vocabulary)
+ 
+## Blocks
+
+## Concepts
+
+## Vocabulary
 
 ## Markdown Style Guide for Coding Notebooks
 
