@@ -1,5 +1,8 @@
 ## Table of Contents
-# By12171580 Notebook.
+
+
+
+
 
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 
@@ -12,6 +15,11 @@
 - [Concepts](#concepts)
   
 - [Vocabulary](#vocabulary)
+
+  
+# By12171580 Notebook.
+
+
  
 ## Blocks
 - Hat blocks have a rounded top and always sit at the very top of a script to start a program when a specific event happens, like clicking a green flag. Directly underneath, you can snap together puzzle-like Stack or Command blocks, which feature notches on top and bumps on the bottom to perform main actions like moving a character. 
