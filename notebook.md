@@ -41,8 +41,68 @@
 - Forever blocks are C-blocks with a closed bottom that run their inner code continuously until the program is completely stopped.
 
 ## Concepts
+- Sequence dictates the exact step-by-step order a computer must execute instructions to achieve the correct result.
+
+- Parameters act as specific settings that change how an individual command behaves when input values are modified.
+
+- Loops / Iteration provide a programming shortcut to repeat actions efficiently without writing redundant code.Sensors serve as the physical components that allow a robot to detect and measure data from its surroundings.
+
+- Sense → Think → Act represents the continuous cycle where a robot gathers data, processes it, and responds physically.Comparisons evaluate the relationship between two values using math symbols to determine how they relate.
+
+- Booleans & Conditions produce a simple true-or-false value that a computer uses to check states.Conditionals function as "if-then" choices that dictate exactly how a program branches and reacts to situations.
+
+- Coordinates map out the exact horizontal and vertical position of a robot on an X and Y grid.
+
+- Patterns reveal structural repetitions that allow programmers to design cleaner and more efficient algorithms.
 
 ## Vocabulary
+1. VR Robot + Playground
+- VR Robot: A virtual robot used in digital learning environments to practice coding and robotics concepts without needing physical hardware.
+- Playground: The 3D virtual environment or map where the VR Robot interacts, moves, and executes programs.
+
+2. Programming Language + Project
+- Programming Language: A formal set of instructions and syntax (such as Blocks or Python) used to write code that a computer or robot can understand.
+- Project: A specific program or file created by combining code blocks or text to make the robot complete a designated task.
+
+3. Behavior + Command
+- Behavior: The action or series of actions that a robot performs, such as turning around or stopping at a wall.
+- Command: A specific instruction within a program that tells the robot to perform a single, distinct action.
+
+4. Drivetrain
+* Drivetrain: The system of components (motors, wheels, and gears) that allows the VR Robot to move forward, backward, and turn.
+
+5. Loop + Iteration
+- Loop: A programming structure that repeats a specific block of code multiple times or until a condition is met.
+- Iteration: A single repetition of a loop or a single execution of a set of instructions.
+
+6. Sensor + Bumper Sensor
+- Sensor: A device that detects and measures physical properties from the surrounding environment and sends that data to the robot.
+- Bumper Sensor: A physical-contact sensor on the VR Robot that detects when it bumps into an object or wall.
+
+7. Boolean + Condition + TRUE/FALSE
+- Condition: A statement or check that evaluates to either true or false to determine what the robot should do next.
+- Boolean: A data type that can only have one of two possible values: TRUE or FALSE.
+
+8. Distance Sensor + Threshold
+- Distance Sensor: A sensor that uses ultrasonic waves or lasers to measure how far away an object or wall is from the front of the robot.
+- Threshold: A specific numerical value or limit used in a program to trigger an action (e.g., stopping when the distance sensor reads less than 50 mm).
+
+9. Coordinate Plane + X/Y Coordinates (X-axis, Y-axis, X-coordinate, Y-coordinate)
+- Coordinate Plane: A two-dimensional grid system formed by a horizontal line (X-axis) and a vertical line (Y-axis).
+- X/Y Coordinates: The specific values (X-coordinate and Y-coordinate) that pinpoint the exact location of the VR Robot on the grid.
+
+10. Location Sensor
+- Location Sensor: A built-in sensor that reads and reports the current X and Y coordinates, as well as the angle (heading), of the VR Robot on the playground.
+
+11. Comment
+- Comment: A note written within the code by the programmer to explain how the program works; it is completely ignored by the robot during execution.
+
+12. Eye Sensor
+- Eye Sensor: A color and light sensor on the VR Robot (usually pointing front or down) that detects the presence, color, and brightness of objects or lines.
+
+13. Conditional Statement
+- Conditional Statement: A programming construct (like an "If-Then" statement) that directs the robot to make decisions and execute specific code only if a certain condition is met.
+
 
 ## Markdown Style Guide for Coding Notebooks
 
