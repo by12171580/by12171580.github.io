@@ -4,7 +4,7 @@ Hello! My name is Byron Vargas.
 
 ## Projects
 
-- Project 1: N/A
+- Project 1: [VEX VR](vex-vr.md) These are my VEX VR Challenges I accomplished. 
 
 - Project 2: N/A
 
