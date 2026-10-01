@@ -2,7 +2,7 @@
 
 ### Goal: Clear every building on the Castle's grounds by pushing all building pieces off of the side of the Playground.
 
-My goal for this challenge was 
+My goal for this challenge was to code a virtual robot to navigate the Castle Crasher Playground, sweeping all smaller structures and the main central castle entirely off the field without falling off yourself.
 
 ### My Solution
 
@@ -11,6 +11,7 @@ My goal for this challenge was
 
 
 ### What I Learned
+I learned how to use sensor data and loops to make a robot think for itself, allowing it to hunt down targets while automatically saving itself from falling off the edge.
 
 ## Challenge 2: [Basketball Drills]
 
