@@ -27,4 +27,4 @@ I learned how to use sensor data and loops to make a robot think for itself, all
 This challenge helped me learn how to think like a programmer to solve complex, repetitive tasks efficiently.
 
 ## Return 
-[Index Page](index.md)
+[Home](index.md)
