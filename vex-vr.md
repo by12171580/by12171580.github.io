@@ -6,7 +6,7 @@ My goal for this challenge was
 
 ### My Solution
 
-<img src="<img width="1262" height="818" alt="Screenshot 2026-10-01 100816" src="https://github.com/user-attachments/assets/548d03e3-72cb-4462-b40a-d475039135fd" />
+<img width="1262" height="818" alt="Screenshot 2026-10-01 100816" src="https://github.com/user-attachments/assets/548d03e3-72cb-4462-b40a-d475039135fd" />
 
 
 ### What I Learned
