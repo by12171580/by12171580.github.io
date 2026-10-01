@@ -6,7 +6,7 @@ My goal for this challenge was
 
 ### My Solution
 
-<img width="1262" height="818" alt="Screenshot 2026-10-01 100816" src="https://github.com/user-attachments/assets/548d03e3-72cb-4462-b40a-d475039135fd" />
+img
 
 
 ### What I Learned
@@ -15,10 +15,11 @@ My goal for this challenge was
 
 ### Goal: Build an algorithm (a process or set of rules) to move through all 1 to 8 grid squares in sequential order. The VR Robot should move to 1, go back to start, move to 2, go back to start. Continue this pattern for all 8 grid squares.
 
-My goal for this challenge was 
+ My goal for this challenge was to program the VR Robot to sequentially visit grid squares 1 through 8, returning to the starting point after each square, by creating an automated loop algorithm.
 
 ### My Solution
 
-Add a picture or screenshot showing your solution.
+<img width="1262" height="818" alt="Screenshot 2026-10-01 100816" src="https://github.com/user-attachments/assets/548d03e3-72cb-4462-b40a-d475039135fd" />
 
 ### What I Learned
+This challenge helped me learn how to think like a programmer to solve complex, repetitive tasks efficiently.
